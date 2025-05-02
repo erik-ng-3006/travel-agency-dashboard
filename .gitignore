@@ -4,3 +4,7 @@
 # React Router
 /.react-router/
 /build/
+.idea/.gitignore
+.idea/modules.xml
+.idea/travel-dashboard.iml
+.idea/vcs.xml
