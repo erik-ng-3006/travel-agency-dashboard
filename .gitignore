@@ -9,3 +9,5 @@
 .idea/travel-dashboard.iml
 .idea/vcs.xml
 .vscode/*
+
+.env.local
