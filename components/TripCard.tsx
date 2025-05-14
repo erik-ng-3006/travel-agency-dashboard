@@ -20,8 +20,8 @@ const TripCard = ({
 		<Link
 			to={
 				path.pathname === '/' || path.pathname.startsWith('/travel')
-					? `travel/${id}`
-					: `trips/${id}`
+					? `/travel/${id}`
+					: `/trips/${id}`
 			}
 			className='trip-card'
 		>
